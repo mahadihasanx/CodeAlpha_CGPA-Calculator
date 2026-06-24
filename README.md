@@ -10,7 +10,7 @@ A simple C++ console application that calculates CGPA using course grades and cr
 * Compute CGPA
 * Display course-wise results
 
-##🛠 Built With
+## 🛠 Built With
 
 * C++
 * STL Vector
