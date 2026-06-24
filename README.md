@@ -1,6 +1,6 @@
 # CGPA Calculator 📱
 
-A simple C++ console application that calculates GPA/CGPA using course grades and credit hours.
+A simple C++ console application that calculates CGPA using course grades and credit hours.
 
 ## Features
 
@@ -10,7 +10,7 @@ A simple C++ console application that calculates GPA/CGPA using course grades an
 * Compute CGPA
 * Display course-wise results
 
-## Technologies Used
+##🛠 Built With
 
 * C++
 * STL Vector
